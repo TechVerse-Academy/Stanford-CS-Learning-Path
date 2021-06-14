@@ -6,6 +6,9 @@ For those who want to learn more about Stanford's computing environment. Topics 
 🔗 http://cs1c.stanford.edu/  
 📄 File Not Found  
 ### CS1U: Practical Unix
+Practical Unix is a practical introduction to using the Unix set of operating systems with a focus on Linux command line skills.  
+The course has videos to introduce some commands and how to use them generally and lab exercises to solidify understanding and go beyond the material in the videos. Much of dealing with the command line involves knowing how to best use Google and manual pages to figure things out, so these lab exercises won't tell you how to do everything.  
+Topics include: grep and regular expressions, shells and ZSH, Vim and Emacs, basic and advanced GDB features, permissions, working with the file system, revision control, Unix utilities, environment customization, and using Python for shell scripts. Topics may be added over time.  
 🧑‍🏫 Instructor: [Zelenski](http://cs.stanford.edu/~zelenski)  
 🔗 https://practicalunix.org  
 📄 File Not Found  
