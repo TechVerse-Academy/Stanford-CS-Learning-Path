@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">12282</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8d5768d4-6580-46bc-b007-7b17e0e76959</dc:identifier>
+        <dc:title>A First Course in Probability, Global Edition</dc:title>
+        <dc:creator opf:file-as="Ross, Sheldon" opf:role="aut">Sheldon Ross</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-04-29T20:07:32+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;em&gt;This title is a Pearson Global Edition. The Editorial team at Pearson has worked closely with educators around the world to include content which is especially relevant to students outside the United States.&lt;/em&gt; For upper-level to graduate courses in Probability or Probability and Statistics, for majors in mathematics, statistics, engineering, and the sciences. &lt;strong&gt;**&lt;/strong&gt;&lt;span style="font-weight: 600; font-style: italic"&gt;Explores both the mathematics and the many potential applications of probability theory&lt;/span&gt; &lt;span style="font-weight: 600; font-style: italic"&gt;A First Course in Probability offers an elementary introduction to the theory of probability for students in mathematics, statistics, engineering, and the sciences. Through clear and intuitive explanations, it attempts to present not only the mathematics of probability theory, but also the many diverse possible applications of this subject through numerous examples. The 10th Edition includes many new and updated problems, exercises, and text material chosen both for inherent interest and for use in building student intuition about probability.&lt;/span&gt;&lt;strong&gt; &lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:identifier opf:scheme="AMAZON">1292269200</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Sheldon Ross&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="6"/>
+        <meta name="calibre:timestamp" content="2021-06-14T06:30:40.775279+00:00"/>
+        <meta name="calibre:title_sort" content="First Course in Probability, Global Edition, A"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Genre&quot;, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;label&quot;: &quot;genre&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;is_names&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: [], &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {&quot;cache_to_list&quot;: &quot;|&quot;, &quot;ui_to_list&quot;: &quot;,&quot;, &quot;list_to_ui&quot;: &quot;, &quot;}}"/>
+        <meta name="calibre:user_metadata:#toread" content="{&quot;table&quot;: &quot;custom_column_2&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;bool&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;to-read&quot;, &quot;search_terms&quot;: [&quot;#toread&quot;], &quot;label&quot;: &quot;toread&quot;, &quot;colnum&quot;: 2, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 23, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

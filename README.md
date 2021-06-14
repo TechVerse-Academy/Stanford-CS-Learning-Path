@@ -83,4 +83,4 @@ CS109: Probability for Computer Scientists starts by providing a fundamental gro
 
 🧑‍🏫 Instructor: [Jerry Cain](mailto:jerry@cs.stanford.edu)      
 🔗 http://web.stanford.edu/class/cs109/      
-📄 [Slides]()  
+📄 [Books]()  
