@@ -15,6 +15,7 @@ CS106E will be of interest to anyone who wants to understand how computers and t
 * If you want a strong background that will allow you to understand technology issues that appear in the news — what net neutrality really means, how the latest computer hacking attack really happened, what the implications of Smart Houses are, or how a driverless car worked (or didn’t work) — this is your class.  
 * If you want a depth of understanding that will allow you to communicate with tech people in a company or organization, again this class will be invaluable.
 * If you want to be confident at a cocktail party in Silicon Valley, this is your class.  
+
 🧑‍🏫 Instructor: [Patrick Young](http://stanford.edu/~psyoung/)   
 🔗 https://web.stanford.edu/class/cs106e/   
 📄 File Not Found  
