@@ -45,7 +45,7 @@ CS 106L is a companion class to CS106B/CS106X that explores the modern C++ langu
 
 👩‍🏫 Instructor: [Ethan Chi](mailto:mailto://cs106l-win2021-staff@lists.stanford.edu)    
 🔗 http://web.stanford.edu/class/cs106l/lectures.html  
-📄 File Not Found
+📄 [Slides](https://github.com/housecricket/Stanford-Computer-Science-Curriculum/tree/main/CS106L)
 ## Mobile
 ### CS47: Cross-Platform Mobile Development
 This course teaches the fundamentals of cross-platform mobile application development with a focus on the React Native framework (RN). The goal is to help students develop best practices in creating apps for both iOS and Android by using Javascript and existing web + mobile development paradigms. Students will explore the unique aspects that made RN a primary tool for mobile development within Facebook, Instagram, Walmart, Tesla, and UberEats.  
