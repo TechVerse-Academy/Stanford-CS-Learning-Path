@@ -1,6 +1,7 @@
 # Stanford Computer Science Curriculum in 2021
 ## Introduction
 ### CS1C: Introduction to Computing at Stanford
+For those who want to learn more about Stanford's computing environment. Topics include computer maintenance and security, computing resources, Internet privacy, and copyright law.   
 🧑‍🏫 Instructor: Smith  
 🔗 http://cs1c.stanford.edu/  
 📄 File Not Found  
