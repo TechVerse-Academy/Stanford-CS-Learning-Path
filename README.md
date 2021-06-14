@@ -59,7 +59,10 @@ This course teaches the fundamentals of cross-platform mobile application develo
 📄 [Slides](https://github.com/housecricket/Stanford-Computer-Science-Curriculum/tree/main/CS47)    
 ## Systems
 ### CS107: Computer Organization and Systems
-🧑‍🏫 Instructor: [Andrew Benson](https://adbenson.dev)     
-🔗 http://web.stanford.edu/class/cs107/ 
-📄 [Slides] 
+🧑‍🏫 Instructor: [Andrew Benson](https://adbenson.dev)      
+🔗 http://web.stanford.edu/class/cs107/   
+📄 [Slides]()  
 ### CS107E: Computer Systems from the Ground Up
+🧑‍🏫 Instructor: [cs107e](mailto:cs107e@cs.stanford.edu)      
+🔗 http://web.stanford.edu/class/cs107e/    
+📄 [Slides]()  
