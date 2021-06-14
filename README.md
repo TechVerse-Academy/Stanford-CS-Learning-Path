@@ -2,6 +2,7 @@
 ## Introduction
 ### CS1C: Introduction to Computing at Stanford
 For those who want to learn more about Stanford's computing environment. Topics include computer maintenance and security, computing resources, Internet privacy, and copyright law.   
+
 🧑‍🏫 Instructor: Smith  
 🔗 http://cs1c.stanford.edu/  
 📄 File Not Found  
@@ -27,12 +28,22 @@ CS106E will be of interest to anyone who wants to understand how computers and t
 ## Programming
 ### CS41: The Python Programming Language
 The fundamentals and contemporary usage of the Python programming language. Primary focus on developing best practices in writing Python and exploring the extensible and unique parts of Python that make it such a powerful language.  
+
 🧑‍🏫 Instructor: Parth Sarin and Michael Cooper   
 🔗 https://stanfordpython.com/#/  
 📄 File Not Found  
+### CS106A: Programming Methodology
+🧑‍🏫 Instructor: [Sahami, Mehran](mailto:nick.parlante@cs)    
+🔗 http://web.stanford.edu/class/cs106a/  
+📄 File Not Found  
+### CS106B: Programming Abstractions  
+🧑‍🏫 Instructor: [cgregg](mailto:cgregg@stanford.edu)    
+🔗 http://web.stanford.edu/class/cs106b/  
+📄 File Not Found
 ## Mobile
 ### CS47: Cross-Platform Mobile Development
 This course teaches the fundamentals of cross-platform mobile application development with a focus on the React Native framework (RN). The goal is to help students develop best practices in creating apps for both iOS and Android by using Javascript and existing web + mobile development paradigms. Students will explore the unique aspects that made RN a primary tool for mobile development within Facebook, Instagram, Walmart, Tesla, and UberEats.  
+
 🧑‍🏫 Instructor: [Abdallah Abuhashem](mailto:aabuhash@stanford.edu), [Claire Rosenfeld](mailto:clairero@stanford.edu) and [Ryan Chen](mailto:rjc45@stanford.edu)     
 🔗 https://web.stanford.edu/class/cs47/#schedule   
 📄 [Slides](https://github.com/housecricket/Stanford-Computer-Science-Curriculum/tree/main/CS47)    
