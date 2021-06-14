@@ -14,13 +14,13 @@ CS106E will be of interest to anyone who wants to understand how computers and t
 * If you want to understand how your consumer electronics work, want to know whether you should spring that extra money for the more expensive multicore processor or GPU, want to understand what "4K HDR TV" really means, or want a better understanding of how digital music, digital cameras, and digital images work, this is your class.  
 * If you want a strong background that will allow you to understand technology issues that appear in the news — what net neutrality really means, how the latest computer hacking attack really happened, what the implications of Smart Houses are, or how a driverless car worked (or didn’t work) — this is your class.  
 * If you want a depth of understanding that will allow you to communicate with tech people in a company or organization, again this class will be invaluable.
-* If you want to be confident at a cocktail party in Silicon Valley, this is your class.
+* If you want to be confident at a cocktail party in Silicon Valley, this is your class.  
 🧑‍🏫 Instructor: [Patrick Young](http://stanford.edu/~psyoung/)   
 🔗 https://web.stanford.edu/class/cs106e/   
 📄 File Not Found  
 ## Programming
 ### CS41: The Python Programming Language
-The fundamentals and contemporary usage of the Python programming language. Primary focus on developing best practices in writing Python and exploring the extensible and unique parts of Python that make it such a powerful language.
+The fundamentals and contemporary usage of the Python programming language. Primary focus on developing best practices in writing Python and exploring the extensible and unique parts of Python that make it such a powerful language.  
 🧑‍🏫 Instructor: Parth Sarin and Michael Cooper   
 🔗 https://stanfordpython.com/#/  
 📄 File Not Found  
