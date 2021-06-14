@@ -42,6 +42,7 @@ The fundamentals and contemporary usage of the Python programming language. Prim
 📄 File Not Found
 ### CS106L: Standard C++ Programming Laboratory	
 CS 106L is a companion class to CS106B/CS106X that explores the modern C++ language in depth. We'll cover some of the most exciting features of C++, including modern patterns that give it beauty and power.  
+
 👩‍🏫 Instructor: [Ethan Chi](mailto:mailto://cs106l-win2021-staff@lists.stanford.edu)    
 🔗 http://web.stanford.edu/class/cs106l/lectures.html  
 📄 File Not Found
