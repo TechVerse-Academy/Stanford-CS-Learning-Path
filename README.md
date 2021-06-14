@@ -46,6 +46,16 @@ CS 106L is a companion class to CS106B/CS106X that explores the modern C++ langu
 👩‍🏫 Instructor: [Ethan Chi](mailto:mailto://cs106l-win2021-staff@lists.stanford.edu)    
 🔗 http://web.stanford.edu/class/cs106l/lectures.html  
 📄 [Slides](https://github.com/housecricket/Stanford-Computer-Science-Curriculum/tree/main/CS106L)
+### CS106M: Enrichment Adventures in Programming Abstractions	
+🧑‍🏫 Instructor:     
+🔗 https://web.stanford.edu/class/cs106m/syllabus  
+📄 File Not Found
+### CS106E: Exploring Computing	
+CS106E will be particularly of interest to anyone who might end up working at a tech company, as it will give you the tools to speak with programmers at the company with confidence. The course will be particularly invaluable to MBAs and Product Managers, and will be helpful to anyone who works with tech personnel including marketing, sales, and HR. Lectures of particular interest to MBAs and PMs include a discussion on Software Engineering (with a comparison of different software processes and an examination of when those development processes work well and when they don’t) and a look at different programming languages along with a discussion on the strengths and weaknesses of each type of language. 
+
+🧑‍🏫 Instructor: [Patrick Young](mailto:patrick.young at stanford.edu)    
+🔗 https://web.stanford.edu/class/cs106e/
+📄 File Not Found
 ## Mobile
 ### CS47: Cross-Platform Mobile Development
 This course teaches the fundamentals of cross-platform mobile application development with a focus on the React Native framework (RN). The goal is to help students develop best practices in creating apps for both iOS and Android by using Javascript and existing web + mobile development paradigms. Students will explore the unique aspects that made RN a primary tool for mobile development within Facebook, Instagram, Walmart, Tesla, and UberEats.  
