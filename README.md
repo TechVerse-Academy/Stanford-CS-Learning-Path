@@ -50,6 +50,17 @@ CS 106L is a companion class to CS106B/CS106X that explores the modern C++ langu
 🧑‍🏫 Instructor:     
 🔗 https://web.stanford.edu/class/cs106m/syllabus  
 📄 File Not Found
+### CS108: Object-Oriented Systems Design
+The course objectives are as follows:
+* To substantially strengthen students’ programming ability by requiring them to program a number of large, interesting projects.  
+* To teach students to find information on their own and solve problems on their own using available documentation; to give them the confidence in their own abilities they will need when programming in industry or as grad students.  
+* To solidify students understanding of object-oriented principles.  
+* To provide exposure to a broad range of programming areas including multi- threaded programs, communication between processes, and interacting with databases.  
+* To provide team programming experience.  
+
+🧑‍🏫 Instructor: [Dr. Patrick Young](https://web.stanford.edu/~psyoung/)      
+🔗 http://web.stanford.edu/class/cs108/    
+📄 [Slides]()  
 ## Mobile
 ### CS47: Cross-Platform Mobile Development
 This course teaches the fundamentals of cross-platform mobile application development with a focus on the React Native framework (RN). The goal is to help students develop best practices in creating apps for both iOS and Android by using Javascript and existing web + mobile development paradigms. Students will explore the unique aspects that made RN a primary tool for mobile development within Facebook, Instagram, Walmart, Tesla, and UberEats.  
