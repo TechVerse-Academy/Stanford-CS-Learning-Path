@@ -60,7 +60,7 @@ The course objectives are as follows:
 
 🧑‍🏫 Instructor: [Dr. Patrick Young](https://web.stanford.edu/~psyoung/)      
 🔗 http://web.stanford.edu/class/cs108/    
-📄 [Slides]()  
+📄 [Syllabus](https://github.com/housecricket/Stanford-Computer-Science-Curriculum/tree/main/CS108)  
 ## Mobile
 ### CS47: Cross-Platform Mobile Development
 This course teaches the fundamentals of cross-platform mobile application development with a focus on the React Native framework (RN). The goal is to help students develop best practices in creating apps for both iOS and Android by using Javascript and existing web + mobile development paradigms. Students will explore the unique aspects that made RN a primary tool for mobile development within Facebook, Instagram, Walmart, Tesla, and UberEats.  
