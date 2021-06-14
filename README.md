@@ -8,3 +8,7 @@
 🧑‍🏫 Instructor: [Zelenski](http://cs.stanford.edu/~zelenski)  
 🔗 https://practicalunix.org  
 📄 File Not Found  
+### CS106E: Exploring Computing	
+🧑‍🏫 Instructor: [Patrick Young](http://stanford.edu/~psyoung/)  
+🔗 https://web.stanford.edu/class/cs106e/ 
+📄 File Not Found  
