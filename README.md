@@ -40,6 +40,11 @@ The fundamentals and contemporary usage of the Python programming language. Prim
 🧑‍🏫 Instructor: [cgregg](mailto:cgregg@stanford.edu)    
 🔗 http://web.stanford.edu/class/cs106b/  
 📄 File Not Found
+### CS106L: Standard C++ Programming Laboratory	
+CS 106L is a companion class to CS106B/CS106X that explores the modern C++ language in depth. We'll cover some of the most exciting features of C++, including modern patterns that give it beauty and power.  
+👩‍🏫 Instructor: [Ethan Chi](mailto:mailto://cs106l-win2021-staff@lists.stanford.edu)    
+🔗 http://web.stanford.edu/class/cs106l/lectures.html  
+📄 File Not Found
 ## Mobile
 ### CS47: Cross-Platform Mobile Development
 This course teaches the fundamentals of cross-platform mobile application development with a focus on the React Native framework (RN). The goal is to help students develop best practices in creating apps for both iOS and Android by using Javascript and existing web + mobile development paradigms. Students will explore the unique aspects that made RN a primary tool for mobile development within Facebook, Instagram, Walmart, Tesla, and UberEats.  
