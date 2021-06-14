@@ -77,3 +77,10 @@ This course teaches the fundamentals of cross-platform mobile application develo
 🧑‍🏫 Instructor: [cs107e](mailto:cs107e@cs.stanford.edu)      
 🔗 http://web.stanford.edu/class/cs107e/    
 📄 [Slides]()  
+## Math
+### CS109: Probability for Computer Scientists	
+CS109: Probability for Computer Scientists starts by providing a fundamental grounding in combinatorics, and then quickly moves into the basics of probability theory. We will then cover many essential concepts in probability theory, including particular probability distributions, properties of probabilities, and mathematical tools for analyzing probabilities. Finally, the last third of the class will focus on data analysis and machine learning as a means for seeing direct applications of probability in this exciting and quickly growing subfield of computer science.  
+
+🧑‍🏫 Instructor: [Jerry Cain](mailto:jerry@cs.stanford.edu)      
+🔗 http://web.stanford.edu/class/cs109/      
+📄 [Slides]()  
