@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">12283</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0a7d95ec-9f07-48cc-9689-a76b91fe269e</dc:identifier>
+        <dc:title>Principles of Computer System Design: An Introduction</dc:title>
+        <dc:creator opf:file-as="Saltzer, J. H. &amp; Kaashoek, Frans" opf:role="aut">J. H. Saltzer</dc:creator>
+        <dc:creator opf:file-as="Saltzer, J. H. &amp; Kaashoek, Frans" opf:role="aut">Frans Kaashoek</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-06-14T17:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;This text identifies, examines, and illustrates fundamental concepts in computer system design that are common across operating systems, networks, database systems, distributed systems, programming languages, software engineering, security, fault tolerance, and architecture. Through carefully analyzed case studies from each of these disciplines, it demonstrates how to apply these concepts to tackle practical system design problems. To support the focus on design, the text identifies and explains abstractions that have proven successful in practice such as, remote procedure call, client/service organization, file systems, data integrity, consistency, and authenticated messages. Most computer systems are built using a handful of such abstractions. The text describes how these abstractions are implemented, demonstrates how they are used in different systems, and prepares the reader to apply them in future designs. This unique book is offered in an online / offline split: Chapters 1-6 are included in the book available from Morgan Kaufmann in print or ebook form. Chapters 7-11 are available online under a Creative Commons license. Download them for free at http://www.elsevierdirect.com/companion.jsp?ISBN=9780123749574Features: Concepts of computer system design guided by fundamental principles.Cross-cutting approach that identifies abstractions common to networking, operating systems, transaction systems, distributed systems, architecture, and software engineering.Case studies that make the abstractions real: naming (DNS and the URL); file systems (the UNIX file system); clients and services (NFS); virtualization (virtual machines); scheduling (disk arms); security (TLS).Numerous pseudocode fragments that provide concrete examples of abstract concepts.Extensive support. The authors and MIT OpenCourseWare  provide on-line, free of charge, open educational resources, including additional chapters, course syllabi, board layouts and slides, lecture videos, and an archive of lecture schedules, class assignments, and design projects.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Morgan Kaufmann</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780123749574</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">8F9hlAEACAAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Operating Systems</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;J. H. Saltzer&quot;: &quot;&quot;, &quot;Frans Kaashoek&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-06-14T06:37:56.203193+00:00"/>
+        <meta name="calibre:title_sort" content="Principles of Computer System Design: An Introduction"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;text&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Genre&quot;, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;label&quot;: &quot;genre&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;is_names&quot;: false}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: [], &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {&quot;cache_to_list&quot;: &quot;|&quot;, &quot;ui_to_list&quot;: &quot;,&quot;, &quot;list_to_ui&quot;: &quot;, &quot;}}"/>
+        <meta name="calibre:user_metadata:#toread" content="{&quot;table&quot;: &quot;custom_column_2&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;bool&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;to-read&quot;, &quot;search_terms&quot;: [&quot;#toread&quot;], &quot;label&quot;: &quot;toread&quot;, &quot;colnum&quot;: 2, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 23, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
