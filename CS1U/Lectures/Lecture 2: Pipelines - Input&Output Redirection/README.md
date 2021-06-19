@@ -23,9 +23,18 @@ There are a couple of handy options for grep.
 [*We’ll cover the advanced patterns, called regular expressions*]()  
  
 **2. Use “>” to output into a file**   
+
+The above command will put output of grep call into the content2.txt file, it doesn’t append, it overwrites.
 ```
 junryo@xyz ~%cat content.txt | grep Vietnam > content2.txt
 junryo@xyz ~%cat content2.txt
+Hello. I'm Trung Anh. I am from Vietnam.
+```
+To append, use ">>".
+```
+junryo@xyz ~%cat content.txt | grep Vietnam >> content2.txt
+junryo@xyz ~%cat content2.txt
+Hello. I'm Trung Anh. I am from Vietnam.
 Hello. I'm Trung Anh. I am from Vietnam.
 ```
 **3 ./conversation.py < name**    
