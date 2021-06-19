@@ -27,6 +27,14 @@ junryo@xyz ~%diff content.txt content2.txt
 ```
 
 Let's take a look at what this output means. The important thing to remember is that when diff is describing these differences to you, it's doing so in a prescriptive context: it's telling you how to change the first file to make it match the second file.
+
+|#   	|change   	|description   	                                                                                            |
+|---	|---	    |---                                                                                                       	|
+|1   	|r1ar2   	|Append the lines at the position r2 in the second file to the position r1 in the first file.               |
+|2   	|r1cr2   	|Change (replace) the lines at position r1 with the lines at the position r2 in the second file.            |
+|3   	|r1dr2   	|Delete the lines in the first file at position r1, which would have appeared at range r2 in the second file|
+|4   	|r2,r4cr2,r4|r2 through r4 in the first file need to be changed to match r2 through r4 in the second file.              |
+
   * The first line of the diff output will contain line numbers corresponding to the first file, a letter (a for add, c for change, or d for delete), and line numbers corresponding to the second file.
 
 In our output above, "2d1" means: "Lines 2 in the first file need to be deleted to match lines 1 in the second file."  
