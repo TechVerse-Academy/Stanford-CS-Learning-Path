@@ -118,6 +118,8 @@ junryo@xyz ~ % find ~  -type d | wc -l
 74530
 ```
 
+  * Here is lists the common file type tests supported by find.
+  
 |#   	|type   	|description                	|
 |---	|---	    |---	                        |
 |1   	|b   	    |Block special device file   	|
