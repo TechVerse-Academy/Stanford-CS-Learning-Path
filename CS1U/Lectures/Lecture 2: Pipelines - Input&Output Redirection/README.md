@@ -24,7 +24,7 @@ There are a couple of handy options for grep.
  
 **2. Use “>” to output into a file**   
 
-The above command will put output of grep call into the content2.txt file, it doesn’t append, it overwrites.
+The below command will put output of the *grep* call into the content2.txt file. It doesn’t append, it overwrites.
 ```
 junryo@xyz ~%cat content.txt | grep Vietnam > content2.txt
 junryo@xyz ~%cat content2.txt
@@ -39,4 +39,28 @@ Hello. I'm Trung Anh. I am from Vietnam.
 ```
 **3 ./conversation.py < name**    
 
-**4. Use “tee” when you want to know what is being outputed to a file**  
+Using the < redirection operator, we change the source of standard input from the keyboard to the file lazy_dog.txt. 
+**4. Read from stdin and output to stdout and files with tee**  
+
+The tee program reads standard input and copies it to both standard output (allowing the data to continue down the pipeline) and to one or more files.   
+```
+junryo@xyz ~% ls /usr/bin | tee ls.txt | grep zip
+bunzip2
+bzip2
+bzip2recover
+funzip
+gunzip
+gzip
+unzip
+unzipsfx
+zip
+zipcloak
+zipdetails
+zipdetails5.18
+zipdetails5.28
+zipdetails5.30
+zipgrep
+zipinfo
+zipnote
+zipsplit
+```
