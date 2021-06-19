@@ -23,6 +23,7 @@ bin		envs		lib		share
 conda-meta	etc		pkgs		shell
 ```
    * We can even specify multiple directories  
+
 In the following example, we list both the user’s home directory (symbolized by the ~ character) and the /usr directory.
 ```
 junryo@xyz ~ %ls ~ /usr
@@ -104,6 +105,7 @@ total 24
 |9   	|-t   	|   	        |Sort by modification time.                                                                              |
 
 2. Print name of current working directory with pwd  
+
 To display the current working directory, we use the pwd (print working directory) command.
 ```
 junryo@xyz ~ %pwd  
@@ -111,6 +113,7 @@ junryo@xyz ~ %pwd
 /Users/junryo/miniconda
 ```
 3. Change directory (will only look in my current directory) with cd  
+
 To change our working directory (where we are standing in the tree-shaped maze), we use the cd command.  
   * Absolute pathnames
 ```
@@ -120,6 +123,7 @@ junryo@xyz ~ %pwd
 /usr/bin
 ```
   * Relative pathnames  
+
 The . notation refers to the working directory, and the .. notation refers to the working directory’s parent directory. Here is how it works. Let’s change the working directory to /usr/bin again.
 ```
 junryo@xyz ~ %cd /usr/bin 
