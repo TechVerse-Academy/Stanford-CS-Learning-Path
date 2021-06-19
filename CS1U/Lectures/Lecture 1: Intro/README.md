@@ -92,15 +92,15 @@ total 24
 
 |#   	|option |long option   	|description              |
 |---	|---	|---	        |---              |
-|1   	|-a  	|--all |List all files, even those with names that begin with a period, which are normally not listed (that is, hidden).|
-|2   	|-A   	|--all-almost   | |
-|3   	|-d   	|--directory   	| |
-|4   	|-F   	|--classify   	| |
-|5   	|-h   	|   	| |
-|6   	|-l   	|   	| |
-|7   	|-r   	|   	| |
-|8   	|-S   	|   	| |
-|9   	|-t   	|   	| |
+|1   	|-a  	|--all          |List all files, even those with names that begin with a period, which are normally not listed.|
+|2   	|-A   	|--all-almost   |Like the -a option except it does not list . (current directory) and .. (parent directory).   |
+|3   	|-d   	|--directory   	|Ordinarily, if a directory is specified, ls will list the contents of the directory, not the directory itself. Use this option in conjunction with the -l option to see details about the directory rather than its contents.         |
+|4   	|-F   	|--classify   	|This option will append an indicator character to the end of each listed name. For example, it will append a forward slash (/) if the name is a directory.                                                                                |
+|5   	|-h   	|   	        |In long format listings, display file sizes in human-readable format rather than in bytes.    |
+|6   	|-l   	|   	        |Display results in long format.                                                               |
+|7   	|-r   	|--reverse   	|Display the results in reverse order. Normally, ls displays its results in ascending alphabetical order.|
+|8   	|-S   	|   	        |Sort results by file size.                                                                    |
+|9   	|-t   	|   	        |Sort by modification time.                                                                    |
 
 * Change directory (will only look in my current directory) with cd
 * cd ~ : takes you to home folder
