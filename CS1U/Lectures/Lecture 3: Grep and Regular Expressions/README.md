@@ -37,5 +37,19 @@ Let's take a look at what this output means. The important thing to remember is 
 |4   	|r2,r4cr2,r4|r2 through r4 in the first file need to be changed to match r2 through r4 in the second file.              |
 
 In our output above, "2d1" means: "Lines 2 in the first file need to be deleted to match lines 1 in the second file."  
+  * The examples above show the default output of diff. It's intended to be read by a computer, not a human, so for human purposes, sometimes it helps to see the context of the changes. To view differences in context mode, use the -c option.   
+```
+junryo@xyz ~%diff -c content.txt content2.txt 
+*** content.txt	Sat Jun 19 14:19:23 2021
+--- content2.txt	Sat Jun 19 14:19:56 2021
+***************
+*** 1,2 ****
+  Hello. I'm Trung Anh. I am from Vietnam.
+- I am a computer scientist.
+\ No newline at end of file
+--- 1 ----
+
+```
+
   
 > The *diff* command is often used by software developers to examine changes between different versions of program source code and thus has the ability to recursively examine directories of source code, often referred to as source trees.
