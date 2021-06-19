@@ -11,3 +11,4 @@ junryo@xyz ~%diff content.txt content2.txt
 ---
 > Hello. I'm Trung Anh. I am from Vietnam.
 ```
+The *diff* command is often used by software developers to examine changes between different versions of program source code and thus has the ability to recursively examine directories of source code, often referred to as source trees.
