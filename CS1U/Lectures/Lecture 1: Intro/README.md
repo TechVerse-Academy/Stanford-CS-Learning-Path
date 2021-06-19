@@ -92,7 +92,7 @@ total 24
 |   #	|option   	| description  	|
 |---	|---	|---	|
 |   1	|  -all 	|   List all files, even those with names that begin with a period, which are normally not listed (that is, hidden).	|
-|   2	|  -almost -all 	|  Like the -a option except it does not list . (current directory) and .. (parent directory). 	|
+|   2	|  -almost -all 	|   	|
 |   	|   	|   	|
 |   	|   	|   	|
 |   	|   	|   	|
