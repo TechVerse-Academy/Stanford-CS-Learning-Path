@@ -1,6 +1,7 @@
 <div align="center">
 	<img width="300" height="350" src="media/logo.png" alt="Linux"></img>
 </div>
+
 ## Contents  
 
 Practical Unix is a practical introduction to using the Unix set of operating systems with a focus on Linux command line skills.  
