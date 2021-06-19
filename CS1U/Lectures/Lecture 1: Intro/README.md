@@ -4,6 +4,7 @@ The ls command is probably the most used command, and for good reason. With it, 
   * Get a list of files and subdirectories contained in the current working directory  
 ```
 junryo@MacBook-Pro ~ %ls  
+
 Applications				Movies
 Calibre Library				Music
 Creative Cloud Files			Pictures
@@ -14,7 +15,11 @@ Library					miniconda
 ```
   * Besides the current working directory, we can specify the directory to list
 ```
-junryo@MacBook-Pro ~ %ls /home
+junryo@MacBook-Pro ~ %ls /miniconda
+
+LICENSE.txt	condabin	include		python.app	ssl
+bin		envs		lib		share
+conda-meta	etc		pkgs		shell
 ```
    * We can even specify multiple directories  
 In the following example, we list both the user’s home directory (symbolized by the ~ character) and the /usr directory.
