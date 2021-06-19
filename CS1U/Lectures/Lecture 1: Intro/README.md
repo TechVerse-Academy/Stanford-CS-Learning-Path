@@ -69,7 +69,7 @@ drwxr-xr-x    9 junryo  staff    288 Jun 15 21:07 share
 drwxr-xr-x    9 junryo  staff    288 Jun 15 21:07 ssl
 -rw-r--r--    1 junryo  staff  11799 Dec 10  2020 LICENSE.txt
 ```  
-   *Add the long option --reverse to reverse the order of the sort.
+   * Add the long option --reverse to reverse the order of the sort.
 ```
 junryo@MacBook-Pro ~ %ls -lt -reverse
 
@@ -88,7 +88,19 @@ total 24
  0 drwxr-xr-x  223 junryo  staff   7136 Jun 15 21:11 pkgs
  0 drwxr-xr-x    4 junryo  staff    128 Jun 15 21:11 envs
 ```
-* cd - change directory (will only look in my current directory)
+The ls command has a large number of possible options, the most common of which are listed in the following table.
+| #  |  option | description  |
+|---|---|---|
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+* Change directory (will only look in my current directory) with cd
 * cd ~ : takes you to home folder
 * cd / : go to root directory
 * cd .. : one directory up
@@ -98,3 +110,4 @@ total 24
 * ctrl-c interrupt command
 * ctrl-d disconnect (used for programs like python
 * ctrl-z takes out of current process, like minimizing
+
