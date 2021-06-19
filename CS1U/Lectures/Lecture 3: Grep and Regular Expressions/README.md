@@ -27,9 +27,13 @@ junryo@xyz ~%diff content.txt content2.txt
 ```
 
 Let's take a look at what this output means. The important thing to remember is that when diff is describing these differences to you, it's doing so in a prescriptive context: it's telling you how to change the first file to make it match the second file.
-  * The first line of the diff output will contain.
-    * line numbers corresponding to the first file,
-    * a letter (a for add, c for change, or d for delete)
-    * line numbers corresponding to the second file.
+  * The first line of the diff output will contain line numbers corresponding to the first file, a letter (a for add, c for change, or d for delete), and line numbers corresponding to the second file.
+
+In our output above, "2d1" means: "Lines 2 in the first file need to be deleted to match lines 1 in the second file."  
+  * It then tells us what those lines are in each file
+    * Lines preceded by a < are lines from the first file.
+    * Lines preceded by > are lines from the second file.
+    * The three dashes ("---") merely separate the lines of file 1 and file 2.
+
 
 The *diff* command is often used by software developers to examine changes between different versions of program source code and thus has the ability to recursively examine directories of source code, often referred to as source trees.
