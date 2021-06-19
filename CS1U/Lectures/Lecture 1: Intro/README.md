@@ -90,17 +90,17 @@ total 24
 ```
   * The ls command has a large number of possible options, the most common of which are listed in the following table.  
 
-|   	|option   	|description   	|
-|---	|---	    |---	        |
-|1   	|all   	    |List all files, even those with names that begin with a period, which are normally not listed (that is, hidden). |
-|   	|   	|   	|
-|   	|   	|   	|
-|   	|   	|   	|
-|   	|   	|   	|
-|   	|   	|   	|
-|   	|   	|   	|
-|   	|   	|   	|
-|   	|   	|   	|
+|   	|option   	        |description   	|
+|---	|---	            |---	        |
+|1   	|-all   	        |List all files, even those with names that begin with a period, which are normally not listed (that is, hidden).|
+|2   	|-all -almost   	|   	|
+|3   	|   	|   	|
+|4   	|   	|   	|
+|5   	|   	|   	|
+|6   	|   	|   	|
+|7   	|   	|   	|
+|8   	|   	|   	|
+|9   	|   	|   	|
 
 * Change directory (will only look in my current directory) with cd
 * cd ~ : takes you to home folder
