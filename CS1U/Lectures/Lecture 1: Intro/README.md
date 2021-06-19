@@ -104,7 +104,7 @@ total 24
 |8   	|-S   	|   	        |Sort results by file size.                                                                              |
 |9   	|-t   	|   	        |Sort by modification time.                                                                              |
 
-2. **Print name of current working directory with pwd**  
+**2. Print name of current working directory with pwd**  
 
 To display the current working directory, we use the pwd (print working directory) command.
 ```
@@ -156,13 +156,13 @@ Tab completion is an extremely helpful feature in nearly any command-line enviro
 junryo@xyz ~% pip
 pip     pip3    pip3.8  pip3.9
 ```
-3. **Erase all commands with clear**  
+**3. Erase all commands with clear**  
 
 Clear is a computer operating system command which is used to bring the command line on top of the computer terminal.
 ```
 junryo@xyz ~ %clear
 ```
-4. **Unix Shortcuts**    
+**4. Unix Shortcuts**    
 
 **Goals:** save you time when working on a Unix system and increase your appreciation of the power of Unix.
 
