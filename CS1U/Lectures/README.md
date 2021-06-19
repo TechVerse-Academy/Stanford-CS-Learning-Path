@@ -1,7 +1,7 @@
 ## Contents
 
 - [Introduction](#introduction)
-- [Pipelines-Input/Output Redirection](#Pipelines-Input-Output-Redirection)
+- [Pipelines-Input/Output Redirection](#Pipelines-Input/Output-Redirection)
 
 ## Introduction
 1. Some main commands:
@@ -17,7 +17,7 @@
 - ctrl-c interrupt command
 - ctrl-d disconnect (used for programs like python
 - ctrl-z takes out of current process, like minimizing
-## Pipelines - Input/Output Redirection
+## Pipelines-Input/Output Redirection
 ## Grep and Regular Expressions
 ## Scripting
 ## Web
