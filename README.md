@@ -18,7 +18,7 @@ Practical Unix is a practical introduction to using the Unix set of operating sy
 Introduction to the fundamentals and analysis specifically needed by engineers to make informed and intelligent financial decisions. Course will focus on actual industry-based financial information from technology companies and realistic financial issues. Topics include: behavioral finance, budgeting, debt, compensation, stock options, investing and real estate. No prior finance or economics experience required.  
 
 🧑‍🏫 Instructor: [Adam Samuel Nash](mailto:smashman@stanford.edu)  
-🔗 https://cs007.blog 
+🔗 https://cs007.blog   
 📄 [Slides](https://www.slideshare.net/adamnash/stanford-cs-00701-2019-personal-finance-for-engineers-introduction)    
 ### CS24: Minds and Machines
 An overview of the interdisciplinary study of cognition, information, communication, and language, with an emphasis on foundational issues: What are minds? What is computation? What are rationality and intelligence? Can we predict human behavior? Can computers be truly intelligent? How do people and technology interact, and how might they do so in the future? Lectures focus on how the methods of philosophy, mathematics, empirical research, and computational modeling are used to study minds and machines. Undergraduates considering a major in symbolic systems should take this course as early as possible in their program of study. Formerly SYMSYS 100.   
