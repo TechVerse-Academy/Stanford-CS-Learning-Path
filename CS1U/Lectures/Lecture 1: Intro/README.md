@@ -35,22 +35,41 @@ X11R6		lib		local		share
 ```
 junryo@MacBook-Pro ~ %ls -l
 
-total 87384
-drwxr-xr-x    4 junryo  staff       128 Apr 15 13:10 Applications
-drwxr-xr-x    2 junryo  staff        64 Nov 26  2020 Calibre Library
-drwx------@   4 junryo  staff       128 May 20 08:19 Creative Cloud Files
-drwx------@   4 junryo  staff       128 Jun 18 15:47 Desktop
-drwx------@  20 junryo  staff       640 Jun 16 18:30 Documents
-drwx------@ 503 junryo  staff     16096 Jun 19 10:35 Downloads
-drwx------@  71 junryo  staff      2272 Mar 17 17:13 Library
-drwx------    4 junryo  staff       128 Nov 20  2020 Movies
-drwx------+   5 junryo  staff       160 May  6 10:12 Music
-drwx------+   4 junryo  staff       128 Nov 20  2020 Pictures
-drwxr-xr-x    3 junryo  staff        96 Jun  1 14:18 Postman
-drwxr-xr-x+   4 junryo  staff       128 Nov 20  2020 Public
-drwxr-xr-x   15 junryo  staff       480 Jun 15 21:07 miniconda
+total 24
+-rw-r--r--    1 junryo  staff  11799 Dec 10  2020 LICENSE.txt
+drwxr-xr-x   71 junryo  staff   2272 Jun 15 21:07 bin
+drwxr-xr-x   38 junryo  staff   1216 Jun 15 21:07 conda-meta
+drwxr-xr-x    3 junryo  staff     96 Jun 15 21:07 condabin
+drwxr-xr-x    4 junryo  staff    128 Jun 15 21:11 envs
+drwxr-xr-x    4 junryo  staff    128 Jun 15 21:07 etc
+drwxr-xr-x  114 junryo  staff   3648 Jun 15 21:07 include
+drwxr-xr-x   90 junryo  staff   2880 Jun 15 21:07 lib
+drwxr-xr-x  223 junryo  staff   7136 Jun 15 21:11 pkgs
+drwxr-xr-x    3 junryo  staff     96 Jun 15 21:07 python.app
+drwxr-xr-x    9 junryo  staff    288 Jun 15 21:07 share
+drwxr-xr-x    3 junryo  staff     96 Jun 15 21:07 shell
+drwxr-xr-x    9 junryo  staff    288 Jun 15 21:07 ssl
 ```
-By adding -l to the command, we changed the output to the long format.  
+By adding -l to the command, we changed the output to the long format.    
+  * Sort the result by the file’s modification time.
+```
+junryo@MacBook-Pro ~ %ls -lt
+
+total 24
+drwxr-xr-x    4 junryo  staff    128 Jun 15 21:11 envs
+drwxr-xr-x  223 junryo  staff   7136 Jun 15 21:11 pkgs
+drwxr-xr-x   38 junryo  staff   1216 Jun 15 21:07 conda-meta
+drwxr-xr-x    3 junryo  staff     96 Jun 15 21:07 python.app
+drwxr-xr-x   71 junryo  staff   2272 Jun 15 21:07 bin
+drwxr-xr-x    3 junryo  staff     96 Jun 15 21:07 condabin
+drwxr-xr-x    3 junryo  staff     96 Jun 15 21:07 shell
+drwxr-xr-x    4 junryo  staff    128 Jun 15 21:07 etc
+drwxr-xr-x   90 junryo  staff   2880 Jun 15 21:07 lib
+drwxr-xr-x  114 junryo  staff   3648 Jun 15 21:07 include
+drwxr-xr-x    9 junryo  staff    288 Jun 15 21:07 share
+drwxr-xr-x    9 junryo  staff    288 Jun 15 21:07 ssl
+-rw-r--r--    1 junryo  staff  11799 Dec 10  2020 LICENSE.txt
+```
 * cd - change directory (will only look in my current directory)
 * cd ~ : takes you to home folder
 * cd / : go to root directory
