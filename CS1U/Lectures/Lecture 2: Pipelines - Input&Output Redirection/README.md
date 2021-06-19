@@ -13,6 +13,13 @@ When grep encounters a “pattern” in the file, it prints out the lines contai
 junryo@xyz ~%cat content.txt | grep Vietnam
 Hello. I'm Trung Anh. I am from Vietnam.
 ```  
+There are a couple of handy options for grep.
+
+|#   	|option   	|description   	                                                                                 |
+|---	|---	      |---	                                                                                             |
+|1   	|-i       	|which causes grep to ignore case when performing the search (normally searches are case sensitive)|
+|2   	|-v      	|which tells grep to print only those lines that do not match the pattern                        	|
+
 [*We’ll cover the advanced patterns, called regular expressions*]()  
 **1. Piping lets you use the output of one command as the input of another**  
 Using the pipe operator |, the standard output of one command can be piped into the standard input of another.
