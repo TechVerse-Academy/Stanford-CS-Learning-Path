@@ -97,6 +97,11 @@ junryo@xyz ~ % find ~
 junryo@xyz ~ % find ~  ! wc -l
 499524
 ```
+  * To list directories from our search.
+```
+junryo@xyz ~ % find ~  -type d | wc -l
+74530
+```
 **4. Locate is faster than find because it uses databases**
 > You might notice that, on some distributions, locate fails to work just after the system is installed, but if you try again the next day, it works fine. What gives? The locate database is created by another program named updatedb. Usually, it is run periodically as a cron job, that is, a task performed at regular intervals by the cron daemon. Most systems equipped with locate run updatedb once a day. Because the database is not updated continuously, you will notice that very recent files do not show up when using locate. To overcome this, it’s possible to run the updatedb program manually by becoming the superuser and running updatedb at the prompt.
 
