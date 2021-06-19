@@ -151,6 +151,20 @@ Regular expressions are symbolic notations used to identify patterns in text.
 ```
 grep [options] regex [file...]
 ```
+
+  * This below describes the commonly used grep options.
+
+|#   	|otpion   	|long option   	|description   	|
+|---	|---	|---	|---	|
+|1   	|-i   	|--ignore-case   	|   	|
+|2   	|-v   	|--invert-match   	|   	|
+|3   	|-c   	|--count   	|   	|
+|4   	|-l   	|--files-with-matches   	|   	|
+|5   	|-L   	|--files-without-match   	|   	|
+|5   	|-n   	|--line-number   	|   	|
+|5   	|-h   	|--no-filename   	|   	|
+
+
 ## References
   * https://www.gnu.org/software/diffutils/manual/html_node/diff-Options.html
 
