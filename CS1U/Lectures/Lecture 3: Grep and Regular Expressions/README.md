@@ -51,20 +51,19 @@ junryo@xyz ~%diff -c content.txt content2.txt
 \ No newline at end of file
 --- 1 ----
 ```
-The output begins with the names of the two files and their timestamps. The first file is marked with asterisks, and the second file is marked with dashes.
+    * The output begins with the names of the two files and their timestamps. The first file is marked with asterisks, and the second file is marked with dashes.
 ```
 *** content.txt	Sat Jun 19 14:19:23 2021
 --- content2.txt	Sat Jun 19 14:19:56 2021
 ***************
 ```
-Next, we see groups of changes, including the default number of surrounding context lines. In the first group, we see this.
+    * Next, we see groups of changes, including the default number of surrounding context lines. In the first group, we see the below which indicates lines 1 through 2 in the first file. 
 ```
 *** 1,2 ****
 ```
-which indicates lines 1 through 2 in the first file. Later we see this.
+    * Later we see this which indicates lines 1 in the second file. 
 ```
 --- 1 ----
 ```
-which indicates lines 1 in the second file. 
 
   
