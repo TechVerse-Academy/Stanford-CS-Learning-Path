@@ -1,6 +1,7 @@
 ### Pipelines Input/Output Redirection
 
 The capability of commands to read data from standard input and send to standard output is utilized by a shell feature called pipelines.  
+
 **1. Piping lets you use the output of one command as the input of another**  
   * Piping lets you use the output of one command as the input of another  
 
