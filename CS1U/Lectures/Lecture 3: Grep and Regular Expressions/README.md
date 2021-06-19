@@ -95,7 +95,8 @@ junryo@xyz ~ % find ~
 
 **4. Locate is faster than find because it uses databases**
 
-The locate program performs a rapid database search of pathnames and then outputs every name that matches a given substring. The locate progaram will search its database of pathnames and output any that contain the string bin/zip.
+The locate program performs a rapid database search of pathnames and then outputs every name that matches a given substring. 
+  * The locate progaram will search its database of pathnames and output any that contain the string bin/zip.
 ```
 junryo@xyz ~ % locate bin/zip 
 ```
