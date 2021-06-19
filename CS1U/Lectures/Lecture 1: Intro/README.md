@@ -16,7 +16,7 @@ Library					miniconda
 ```
   * Besides the current working directory, we can specify the directory to list
 ```
-junryo@xyz ~ %ls /miniconda
+junryo@xyz ~ %ls miniconda
 
 LICENSE.txt	condabin	include		python.app	ssl
 bin		envs		lib		share
@@ -35,7 +35,7 @@ X11R6		lib		local		share
 ```
    * By adding -l to the command, we changed the output to the long format.
 ```
-junryo@xyz ~ %ls -l
+junryo@xyz ~ %ls -l miniconda
 
 total 24
 -rw-r--r--    1 junryo  staff  11799 Dec 10  2020 LICENSE.txt
@@ -54,7 +54,7 @@ drwxr-xr-x    9 junryo  staff    288 Jun 15 21:07 ssl
 ```   
   * Sort the result by the file’s modification time.
 ```
-junryo@xyz ~ %ls -lt
+junryo@xyz ~ %ls -lt miniconda
 
 total 24
 drwxr-xr-x    4 junryo  staff    128 Jun 15 21:11 envs
@@ -73,7 +73,7 @@ drwxr-xr-x    9 junryo  staff    288 Jun 15 21:07 ssl
 ```  
    * Add the long option --reverse to reverse the order of the sort.
 ```
-junryo@xyz ~ %ls -lt --reverse
+junryo@xyz ~ %ls -lt --reverse miniconda
 
 total 24
 24 -rw-r--r--    1 junryo  staff  11799 Dec 10  2020 LICENSE.txt
@@ -110,7 +110,7 @@ To display the current working directory, we use the pwd (print working director
 ```
 junryo@xyz ~ %pwd  
 
-/Users/junryo/miniconda
+/Users/junryo
 ```
 3. Change directory (will only look in my current directory) with cd  
 
@@ -118,7 +118,7 @@ To change our working directory (where we are standing in the tree-shaped maze),
   * Absolute pathnames
 ```
 junryo@xyz ~ %cd /usr/bin 
-junryo@xyz ~ %pwd  
+junryo@xyz bin %pwd  
 /usr/bin
 ```
   * Relative pathnames  
@@ -129,27 +129,33 @@ junryo@xyz ~ %cd /usr/bin
 ```
 We wanted to change the working directory to the parent of /usr/bin, which is /usr. 
 ```
-junryo@xyz ~ %cd ..
+junryo@xyz bin %cd ..
 ```
 We can change the working directory from /usr to /usr/bin using an relative pathname.
 ```
-junryo@xyz ~ %cd ./bin
-junryo@xyz ~ %cd pwd
+junryo@xyz %cd ./bin
+junryo@xyz bin %pwd
 
 usr/bin
 ```
 * cd ~ : takes you to home folder
 ```
-junryo@xyz ~ %cd ~
+junryo@xyz bin %cd ~
 junryo@xyz ~ %pwd
 /Users/junryo
 ```
 * cd / : go to root directory
 ```
-junryo@xyz ~ %cd \
-\
+junryo@xyz ~ %cd /
+/
 ```
-* tab completion: pressing tab automatically completes the file name
+* tab completion: pressing tab automatically completes the file name  
+
+Tab completion is an extremely helpful feature in nearly any command-line environment, whether you’re using the Bash shell on Linux, Command Prompt or PowerShell on Windows, or a terminal window on Mac OS X. This feature can dramatically help you speed up typing commands. Just hit Tab while typing a command, option, or file name and the shell environment will automatically complete what you’re typing or suggest options to you. 
+```
+junryo@xyz ~% pip
+pip     pip3    pip3.8  pip3.9
+```
 * clear : erase all commands
 * up arrow lets you access previous commands you’ve used
 * ctrl-c interrupt command
