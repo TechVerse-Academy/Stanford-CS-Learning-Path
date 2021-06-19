@@ -102,7 +102,21 @@ total 24
 |8   	|-S   	|   	        |Sort results by file size.                                                                              |
 |9   	|-t   	|   	        |Sort by modification time.                                                                              |
 
-* Change directory (will only look in my current directory) with cd
+2. Print name of current working directory with pwd  
+To display the current working directory, we use the pwd (print working directory) command.
+```
+junryo@xyz ~ %pwd  
+/Users/junryo/miniconda
+```
+3. Change directory (will only look in my current directory) with cd  
+To change our working directory (where we are standing in the tree-shaped maze), we use the cd command.  
+  * Absolute Pathnames
+```
+junryo@xyz ~ %cd /usr/bin 
+junryo@xyz ~ %pwd  
+
+/usr/bin
+```
 * cd ~ : takes you to home folder
 * cd / : go to root directory
 * cd .. : one directory up
