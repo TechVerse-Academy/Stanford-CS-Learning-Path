@@ -94,11 +94,16 @@ junryo@xyz ~ % find ~
 
 
 **4. Locate is faster than find because it uses databases**
+> You might notice that, on some distributions, locate fails to work just after the system is installed, but if you try again the next day, it works fine. What gives? The locate database is created by another program named updatedb. Usually, it is run periodically as a cron job, that is, a task performed at regular intervals by the cron daemon. Most systems equipped with locate run updatedb once a day. Because the database is not updated continuously, you will notice that very recent files do not show up when using locate. To overcome this, it’s possible to run the updatedb program manually by becoming the superuser and running updatedb at the prompt.
 
 The locate program performs a rapid database search of pathnames and then outputs every name that matches a given substring. 
   * The locate progaram will search its database of pathnames and output any that contain the string bin/zip.
 ```
 junryo@xyz ~ % locate bin/zip 
+```
+  * If the search requirement is not so simple, we can combine locate with other tools such as grep to design more interesting searches.
+```
+junryo@xyz ~ % locate zip | grep bin
 ```
 
 **5. Regular expressions**  
