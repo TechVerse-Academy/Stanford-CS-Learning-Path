@@ -1,9 +1,10 @@
 ## Contents
 
 - [Introduction](#introduction)
+- [Pipelines-Input/Output Redirection](#Pipelines-Input-Output-Redirection)
 
 ## Introduction
-* Some main commands:
+1. Some main commands:
 - ls - list directory
 - cd - change directory
 = will only look in my current directory
@@ -16,3 +17,8 @@
 - ctrl-c interrupt command
 - ctrl-d disconnect (used for programs like python
 - ctrl-z takes out of current process, like minimizing
+## Pipelines - Input/Output Redirection
+## Grep and Regular Expressions
+## Scripting
+## Web
+## Advanced Web
