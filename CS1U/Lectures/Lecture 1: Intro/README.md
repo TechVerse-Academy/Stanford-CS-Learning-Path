@@ -69,7 +69,7 @@ drwxr-xr-x    9 junryo  staff    288 Jun 15 21:07 share
 drwxr-xr-x    9 junryo  staff    288 Jun 15 21:07 ssl
 -rw-r--r--    1 junryo  staff  11799 Dec 10  2020 LICENSE.txt
 ```  
-Add the long option --reverse to reverse the order of the sort.
+   *Add the long option --reverse to reverse the order of the sort.
 ```
 junryo@MacBook-Pro ~ %ls -lt -reverse
 
