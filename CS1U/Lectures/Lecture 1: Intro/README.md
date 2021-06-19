@@ -168,8 +168,7 @@ In a terminal, pressing CTRL-C interrupts a program. After we pressed CTRL-C, th
 * ctrl-d disconnect (used for programs like python)
 * ctrl-z takes out of current process, like minimizing  
 
-Sometimes we’ll want to stop a process without terminating it. This is often done to allow a foreground process to be moved to the background. To stop a foreground process and place it in the background, press CTRL-Z.   
-Let’s try it. At the command prompt, type xlogo, press ENTER, and then press CTRL-Z.
+Sometimes we’ll want to stop a process without terminating it. This is often done to allow a foreground process to be moved to the background. To stop a foreground process and place it in the background, press CTRL-Z. Let’s try it. At the command prompt, type xlogo, press ENTER, and then press CTRL-Z.  
 ```
 junryo@xyz ~ % xlogo
 [1]+  Stopped                 xlogo
