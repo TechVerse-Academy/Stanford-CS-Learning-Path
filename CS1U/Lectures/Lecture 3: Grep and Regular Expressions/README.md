@@ -73,10 +73,11 @@ junryo@xyz ~%diff -c content.txt content2.txt
 
 **2. You can compare two directories as well**
 
-B flag will ignore things like blank lines
-b flag will ignore things like blank spaces
-y flag compares lines side-by-side
-Use --width=50 (or another option) flag if you have a smaller screen
+  * B (*--ignore-blank-lines*) flag will ignore things like blank lines
+
+  * b (*--ignore-space-change*) flag will ignore things like blank spaces
+  * y (*--side-by-side*) flag compares lines side-by-side
+  * Use --width=50 (or another option) flag if you have a smaller screen
 
 **3. Find files the hard way**  
 
@@ -84,5 +85,9 @@ Find command searches directories for a file based on a pattern that you give it
 
 **4. Locate is faster than find because it uses databases**
 
-**5. Regular expressions**
+**5. Regular expressions**  
   
+
+## References
+  * https://www.gnu.org/software/diffutils/manual/html_node/diff-Options.html
+
