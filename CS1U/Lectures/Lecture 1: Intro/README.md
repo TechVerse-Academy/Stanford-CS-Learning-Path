@@ -162,6 +162,11 @@ Clear is a computer operating system command which is used to bring the command 
 ```
 junryo@xyz ~ %clear
 ```
+4. Unix Shortcuts    
+
+**Goals: **save you time when working on a Unix system and increase your appreciation of the power of Unix.
+
+
 * up arrow lets you access previous commands you’ve used
 * ctrl-c interrupt command (hold down the CTRL key and press C)  
 
