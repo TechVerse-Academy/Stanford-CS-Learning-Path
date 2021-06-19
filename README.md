@@ -3,7 +3,7 @@
 ### CS1C: Introduction to Computing at Stanford
 For those who want to learn more about Stanford's computing environment. Topics include computer maintenance and security, computing resources, Internet privacy, and copyright law.   
 
-🧑‍🏫 Instructor: Smith  
+🧑‍🏫 Instructor: [Smith](mailto:ssmith5@stanford.edu)   
 🔗 http://cs1c.stanford.edu/  
 📄 File Not Found  
 ### CS1U: Practical Unix
@@ -19,7 +19,7 @@ Introduction to the fundamentals and analysis specifically needed by engineers t
 
 🧑‍🏫 Instructor: [Adam Samuel Nash](mailto:smashman@stanford.edu)  
 🔗 https://cs007.blog 
-📄 [Slides](https://www.slideshare.net/adamnash/  stanford-cs-00701-2019-personal-finance-for-engineers-introduction) 
+📄 [Slides](https://www.slideshare.net/adamnash/stanford-cs-00701-2019-personal-finance-for-engineers-introduction)    
 ### CS24: Minds and Machines
 An overview of the interdisciplinary study of cognition, information, communication, and language, with an emphasis on foundational issues: What are minds? What is computation? What are rationality and intelligence? Can we predict human behavior? Can computers be truly intelligent? How do people and technology interact, and how might they do so in the future? Lectures focus on how the methods of philosophy, mathematics, empirical research, and computational modeling are used to study minds and machines. Undergraduates considering a major in symbolic systems should take this course as early as possible in their program of study. Formerly SYMSYS 100.   
 
