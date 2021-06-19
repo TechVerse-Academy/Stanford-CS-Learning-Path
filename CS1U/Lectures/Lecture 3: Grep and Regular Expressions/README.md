@@ -119,7 +119,7 @@ junryo@xyz ~ % find ~  -type d | wc -l
 ```
 
   * Here is lists the common file type tests supported by find.
-  
+
 |#   	|type   	|description                	|
 |---	|---	    |---	                        |
 |1   	|b   	    |Block special device file   	|
@@ -142,8 +142,9 @@ junryo@xyz ~ % locate zip | grep bin
 ```
 
 **5. Regular expressions**  
-  
 
+Regular expressions are symbolic notations used to identify patterns in text. 
+> The main program we will use to work with regular expressions is our old pal grep. The name grep is actually derived from the phrase “global regular expression print,” so we can see that grep has something to do with regular expressions.
 ## References
   * https://www.gnu.org/software/diffutils/manual/html_node/diff-Options.html
 
