@@ -118,7 +118,7 @@ junryo@xyz ~ %pwd
 
 /usr/bin
 ```
-  * Relative pathnames
+  * Relative pathnames  
 The . notation refers to the working directory, and the .. notation refers to the working directory’s parent directory. Here is how it works. Let’s change the working directory to /usr/bin again.
 ```
 junryo@xyz ~ %cd /usr/bin 
