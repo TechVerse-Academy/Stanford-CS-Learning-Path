@@ -4,6 +4,13 @@ The ls command is probably the most used command, and for good reason. With it, 
   * Get a list of files and subdirectories contained in the current working directory  
 ```
 junryo@MacBook-Pro ~ %ls  
+Applications				Movies
+Calibre Library				Music
+Creative Cloud Files		Pictures
+Desktop					    Postman
+Documents				    Public
+Downloads				    
+Library					    miniconda
 ```
   * Besides the current working directory, we can specify the directory to list
 ```
@@ -18,6 +25,7 @@ junryo@MacBook-Pro ~ %ls ~ /usr
 ```
 junryo@MacBook-Pro ~ %ls -l
 ```
+By adding -l to the command, we changed the output to the long format.  
 * cd - change directory (will only look in my current directory)
 * cd ~ : takes you to home folder
 * cd / : go to root directory
