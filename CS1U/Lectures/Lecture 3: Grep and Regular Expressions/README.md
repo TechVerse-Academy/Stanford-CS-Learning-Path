@@ -84,7 +84,14 @@ junryo@xyz ~%diff -c content.txt content2.txt
 
 **3. Find files the hard way**  
 
-Find command searches directories for a file based on a pattern that you give it. 
+Find command searches directories for a file based on a pattern that you give it. We’re going to spend a lot of time with find because it has a lot of interesting features that we will see again and again when we start to cover programming concepts in later lectures.
+
+  * In its simplest use, find is given one or more names of directories to search. For example, to produce a listing of our home directory, we can use this.
+
+```
+junryo@xyz ~ % find ~  
+```
+
 
 **4. Locate is faster than find because it uses databases**
 
