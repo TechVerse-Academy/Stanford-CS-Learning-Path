@@ -92,7 +92,7 @@ Find command searches directories for a file based on a pattern that you give it
 junryo@xyz ~ % find ~  
 ```
 
-On most active user accounts, this will produce a large list. Because the list is sent to standard output, we can pipe the list into other programs. Let’s use wc to count the number of files.
+  * On most active user accounts, this will produce a large list. Because the list is sent to standard output, we can pipe the list into other programs. Let’s use wc to count the number of files.
 ```
 junryo@xyz ~ % find ~  ! wc -l
 499524
