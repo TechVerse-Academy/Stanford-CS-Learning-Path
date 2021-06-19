@@ -26,5 +26,10 @@ junryo@xyz ~%diff content.txt content2.txt
 \ No newline at end of file
 ```
 
+Let's take a look at what this output means. The important thing to remember is that when diff is describing these differences to you, it's doing so in a prescriptive context: it's telling you how to change the first file to make it match the second file.
+  * The first line of the diff output will contain.
+    * line numbers corresponding to the first file,
+    * a letter (a for add, c for change, or d for delete)
+    * line numbers corresponding to the second file.
 
 The *diff* command is often used by software developers to examine changes between different versions of program source code and thus has the ability to recursively examine directories of source code, often referred to as source trees.
