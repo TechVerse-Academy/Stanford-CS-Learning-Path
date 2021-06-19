@@ -1,6 +1,6 @@
 # Stanford Computer Science Curriculum in 2021  
 Courses offered by the Department of Computer Science are listed under the subject code CS.
-> I will rewrite lecture based original syllabus by updating latest knowledge.
+> I will rewrite lectures based original syllabus by updating the latest knowledge to accelerate you.
 ## Introduction
 ### CS1C: Introduction to Computing at Stanford
 For those who want to learn more about Stanford's computing environment. Topics include computer maintenance and security, computing resources, Internet privacy, and copyright law.   
