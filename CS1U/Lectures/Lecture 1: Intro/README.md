@@ -119,7 +119,6 @@ To change our working directory (where we are standing in the tree-shaped maze),
 ```
 junryo@xyz ~ %cd /usr/bin 
 junryo@xyz ~ %pwd  
-
 /usr/bin
 ```
   * Relative pathnames  
@@ -146,7 +145,10 @@ junryo@xyz ~ %pwd
 /Users/junryo
 ```
 * cd / : go to root directory
-* cd .. : one directory up
+```
+junryo@xyz ~ %cd \
+\
+```
 * tab completion: pressing tab automatically completes the file name
 * clear : erase all commands
 * up arrow lets you access previous commands you’ve used
