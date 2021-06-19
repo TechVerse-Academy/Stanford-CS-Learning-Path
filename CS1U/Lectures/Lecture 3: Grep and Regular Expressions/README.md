@@ -156,13 +156,13 @@ grep [options] regex [file...]
 
 |#   	|otpion   	|long option   	|description   	|
 |---	|---	|---	|---	|
-|1   	|-i   	|--ignore-case   	|   	|
-|2   	|-v   	|--invert-match   	|   	|
-|3   	|-c   	|--count   	|   	|
-|4   	|-l   	|--files-with-matches   	|   	|
-|5   	|-L   	|--files-without-match   	|   	|
-|5   	|-n   	|--line-number   	|   	|
-|5   	|-h   	|--no-filename   	|   	|
+|1   	|-i   	|--ignore-case   	|Do not distinguish between uppercase and lowercase characters.   	|
+|2   	|-v   	|--invert-match   	|Normally, grep prints lines that contain a match. This option causes grep to print every line that does not contain a match.   	|
+|3   	|-c   	|--count   	|Print the number of matches (or non-matches if the -v option is also specified) instead of the lines themselves.   	|
+|4   	|-l   	|--files-with-matches   	|Print the name of each file that contains a match instead of the lines themselves.   	|
+|5   	|-L   	|--files-without-match   	|Like the -l option, but print only the names of files that do not contain matches.   	|
+|6   	|-n   	|--line-number   	|Prefix each matching line with the number of the line within the file.   	|
+|7   	|-h   	|--no-filename   	|For multifile searches, suppress the output of filenames.   	|
 
 
 ## References
