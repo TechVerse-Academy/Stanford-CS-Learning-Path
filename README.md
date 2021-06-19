@@ -13,7 +13,7 @@ Practical Unix is a practical introduction to using the Unix set of operating sy
 
 🧑‍🏫 Instructor: [Zelenski](http://cs.stanford.edu/~zelenski)  
 🔗 https://practicalunix.org  
-📄 File Not Found  
+📄 [Lectures](https://github.com/housecricket/Stanford-Computer-Science-Curriculum/tree/main/CS1U/Lectures)  
 ### CS7: Personal Finance for Engineers
 Introduction to the fundamentals and analysis specifically needed by engineers to make informed and intelligent financial decisions. Course will focus on actual industry-based financial information from technology companies and realistic financial issues. Topics include: behavioral finance, budgeting, debt, compensation, stock options, investing and real estate. No prior finance or economics experience required.  
 
