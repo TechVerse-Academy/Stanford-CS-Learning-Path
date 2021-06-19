@@ -1,5 +1,5 @@
 ### Some main commands
-* ls - list directory
+* ls - list directory  
 The ls command is probably the most used command
 * cd - change directory (will only look in my current directory)
 * cd ~ : takes you to home folder
