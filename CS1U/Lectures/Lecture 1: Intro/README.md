@@ -92,15 +92,15 @@ total 24
 
 |   	|option   	        |long option   	|description              |
 |---	|---	            |---	        |---              |
-|1   	|--all   	        |List all files, even those with names that begin with a period, which are normally not listed (that is, hidden).|                |
-|2   	|--all-almost   	|   	|
-|3   	|--directory   	|   	| |
-|4   	|--classify   	|   	| |
-|5   	|   	|   	| |
-|6   	|   	|   	| |
-|7   	|   	|   	| |
-|8   	|   	|   	| |
-|9   	|   	|   	| |
+|1   	|-a  	            |--all |List all files, even those with names that begin with a period, which are normally not listed (that is, hidden).                |
+|2   	|-A   	|--all-almost   	|
+|3   	|-d   	|--directory   	| |
+|4   	|-F   	|--classify   	| |
+|5   	|-h   	|   	| |
+|6   	|-l   	|   	| |
+|7   	|-r   	|   	| |
+|8   	|-S   	|   	| |
+|9   	|-t   	|   	| |
 
 * Change directory (will only look in my current directory) with cd
 * cd ~ : takes you to home folder
