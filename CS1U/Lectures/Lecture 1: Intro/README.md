@@ -25,6 +25,11 @@ conda-meta	etc		pkgs		shell
 In the following example, we list both the user’s home directory (symbolized by the ~ character) and the /usr directory.
 ```
 junryo@MacBook-Pro ~ %ls ~ /usr
+
+
+/usr:
+X11		bin		libexec		sbin		standalone
+X11R6		lib		local		share
 ```
    * We can also change the format of the output to reveal more detail.
 ```
