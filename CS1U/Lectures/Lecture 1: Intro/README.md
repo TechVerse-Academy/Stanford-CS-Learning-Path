@@ -167,7 +167,9 @@ junryo@xyz ~ %clear
 **Goals:** save you time when working on a Unix system and increase your appreciation of the power of Unix.
 
 
-* up arrow lets you access previous commands you’ve used
+* up arrow lets you access previous commands you’ve used  
+
+Linux maintains a history of commands you have entered. Using the up and down arrow keys, you can recall previously-entered commands to the command line, edit them and re-issue them.
 * ctrl-c interrupt command (hold down the CTRL key and press C)  
 
 In a terminal, pressing CTRL-C interrupts a program. After we pressed CTRL-C, the running program closed, and the shell prompt returned.
