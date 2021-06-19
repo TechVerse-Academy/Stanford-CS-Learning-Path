@@ -164,9 +164,10 @@ junryo@xyz ~ %clear
 ```
 * up arrow lets you access previous commands you’ve used
 * ctrl-c interrupt command (hold down the CTRL key and press C)  
+
 In a terminal, pressing CTRL-C interrupts a program. After we pressed CTRL-C, the running program closed, and the shell prompt returned.
-* ctrl-d disconnect (used for programs like python)
-* ctrl-z takes out of current process, like minimizing  
+* Ending a terminal session: ctrl-d disconnect (used for programs like python)
+* Stopping (pausing) a process: ctrl-z takes out of current process, like minimizing  
 
 Sometimes we’ll want to stop a process without terminating it. This is often done to allow a foreground process to be moved to the background. To stop a foreground process and place it in the background, press CTRL-Z. Let’s try it. At the command prompt, type xlogo, press ENTER, and then press CTRL-Z.  
 ```
