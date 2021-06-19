@@ -6,11 +6,11 @@ The ls command is probably the most used command, and for good reason. With it, 
 junryo@MacBook-Pro ~ %ls  
 Applications				Movies
 Calibre Library				Music
-Creative Cloud Files		Pictures
-Desktop					    Postman
-Documents				    Public
-Downloads				    
-Library					    miniconda
+Creative Cloud Files			Pictures
+Desktop					Postman
+Documents				Public
+Downloads				Private
+Library					miniconda
 ```
   * Besides the current working directory, we can specify the directory to list
 ```
