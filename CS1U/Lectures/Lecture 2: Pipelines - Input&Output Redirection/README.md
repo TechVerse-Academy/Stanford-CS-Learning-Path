@@ -9,6 +9,10 @@ The *grep* command is a powerful program used to find text patterns within files
 grep pattern file_name
 ```
 When grep encounters a “pattern” in the file, it prints out the lines containing it. The patterns that grep can match can be very complex, but for now we will concentrate on simple text matches.  
+```
+junryo@xyz ~%cat content.txt | grep Vietnam
+Hello. I'm Trung Anh. I am from Vietnam.
+```  
 [*We’ll cover the advanced patterns, called regular expressions*]()  
 **1. Piping lets you use the output of one command as the input of another**  
 Using the pipe operator |, the standard output of one command can be piped into the standard input of another.
