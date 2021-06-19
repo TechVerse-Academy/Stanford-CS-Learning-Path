@@ -1,5 +1,5 @@
 <div align="center">
-	<img width="300" height="350" src="media/logo.png" alt="Linux"></img>
+	<img width="300" height="350" src="../media/logo.png" alt="Linux"></img>
 </div>
 
 ## Contents  
