@@ -173,7 +173,7 @@ Sometimes we’ll want to stop a process without terminating it. This is often d
 ```
 junryo@xyz ~ % xlogo
 [1]+  Stopped                 xlogo
-unryo@xyz ~ %
+junryo@xyz ~ %
 ```
 
 
