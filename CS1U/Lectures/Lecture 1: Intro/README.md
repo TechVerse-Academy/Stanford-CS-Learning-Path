@@ -90,10 +90,10 @@ total 24
 ```
   * The ls command has a large number of possible options, the most common of which are listed in the following table.  
 
-|   	|option   	        |long option   	|description              |
-|---	|---	            |---	        |---              |
-|1   	|-a  	            |--all |List all files, even those with names that begin with a period, which are normally not listed (that is, hidden).                |
-|2   	|-A   	|--all-almost   	|
+|#   	|option |long option   	|description              |
+|---	|---	|---	        |---              |
+|1   	|-a  	|--all |List all files, even those with names that begin with a period, which are normally not listed (that is, hidden).|
+|2   	|-A   	|--all-almost   | |
 |3   	|-d   	|--directory   	| |
 |4   	|-F   	|--classify   	| |
 |5   	|-h   	|   	| |
