@@ -140,6 +140,11 @@ junryo@xyz ~ %cd pwd
 usr/bin
 ```
 * cd ~ : takes you to home folder
+```
+junryo@xyz ~ %cd ~
+junryo@xyz ~ %pwd
+/Users/junryo
+```
 * cd / : go to root directory
 * cd .. : one directory up
 * tab completion: pressing tab automatically completes the file name
