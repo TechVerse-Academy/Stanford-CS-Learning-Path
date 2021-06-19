@@ -31,7 +31,7 @@ junryo@MacBook-Pro ~ %ls ~ /usr
 X11		bin		libexec		sbin		standalone
 X11R6		lib		local		share
 ```
-   * We can also change the format of the output to reveal more detail.
+   * By adding -l to the command, we changed the output to the long format.
 ```
 junryo@MacBook-Pro ~ %ls -l
 
@@ -49,8 +49,7 @@ drwxr-xr-x    3 junryo  staff     96 Jun 15 21:07 python.app
 drwxr-xr-x    9 junryo  staff    288 Jun 15 21:07 share
 drwxr-xr-x    3 junryo  staff     96 Jun 15 21:07 shell
 drwxr-xr-x    9 junryo  staff    288 Jun 15 21:07 ssl
-```
-By adding -l to the command, we changed the output to the long format.    
+```   
   * Sort the result by the file’s modification time.
 ```
 junryo@MacBook-Pro ~ %ls -lt
@@ -69,6 +68,25 @@ drwxr-xr-x  114 junryo  staff   3648 Jun 15 21:07 include
 drwxr-xr-x    9 junryo  staff    288 Jun 15 21:07 share
 drwxr-xr-x    9 junryo  staff    288 Jun 15 21:07 ssl
 -rw-r--r--    1 junryo  staff  11799 Dec 10  2020 LICENSE.txt
+```  
+Add the long option --reverse to reverse the order of the sort.
+```
+junryo@MacBook-Pro ~ %ls -lt -reverse
+
+total 24
+24 -rw-r--r--    1 junryo  staff  11799 Dec 10  2020 LICENSE.txt
+ 0 drwxr-xr-x    9 junryo  staff    288 Jun 15 21:07 ssl
+ 0 drwxr-xr-x    9 junryo  staff    288 Jun 15 21:07 share
+ 0 drwxr-xr-x  114 junryo  staff   3648 Jun 15 21:07 include
+ 0 drwxr-xr-x   90 junryo  staff   2880 Jun 15 21:07 lib
+ 0 drwxr-xr-x    4 junryo  staff    128 Jun 15 21:07 etc
+ 0 drwxr-xr-x    3 junryo  staff     96 Jun 15 21:07 shell
+ 0 drwxr-xr-x    3 junryo  staff     96 Jun 15 21:07 condabin
+ 0 drwxr-xr-x   71 junryo  staff   2272 Jun 15 21:07 bin
+ 0 drwxr-xr-x    3 junryo  staff     96 Jun 15 21:07 python.app
+ 0 drwxr-xr-x   38 junryo  staff   1216 Jun 15 21:07 conda-meta
+ 0 drwxr-xr-x  223 junryo  staff   7136 Jun 15 21:11 pkgs
+ 0 drwxr-xr-x    4 junryo  staff    128 Jun 15 21:11 envs
 ```
 * cd - change directory (will only look in my current directory)
 * cd ~ : takes you to home folder
