@@ -164,6 +164,8 @@ grep [options] regex [file...]
 |6   	|-n   	|--line-number   	|Prefix each matching line with the number of the line within the file.   	|
 |7   	|-h   	|--no-filename   	|For multifile searches, suppress the output of filenames.   	|
 
+  * The metacharacters that are used to specify more complex matches. 
+Regular expression metacharacters consist of the following: `^ $ . [ ] { } - ? * + ( ) | \`
 
 ## References
   * https://www.gnu.org/software/diffutils/manual/html_node/diff-Options.html
