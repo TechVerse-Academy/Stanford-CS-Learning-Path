@@ -21,7 +21,7 @@ Practical Unix is a practical introduction to using the Unix set of operating sy
 
 The diff program is a much more complex tool, supporting many output formats and the ability to process large collections of text files at once.  
 ```
-diff options File1 File2 
+diff [options] File1 File2 
 ```
 For example, consider two files, content.txt, and context2.txt in the [previous lecture](../Lecture%202:%20Pipelines%20-%20Input%26Output%20Redirection).  
   * If context.txt contains the following two lines of text:
@@ -143,8 +143,14 @@ junryo@xyz ~ % locate zip | grep bin
 
 **5. Regular expressions**  
 
+> The main program we will use to work with regular expressions is our old pal grep. The name grep is actually derived from the phrase “global regular expression print,” so we can see that grep has something to do with regular expressions.  
+
 Regular expressions are symbolic notations used to identify patterns in text. 
-> The main program we will use to work with regular expressions is our old pal grep. The name grep is actually derived from the phrase “global regular expression print,” so we can see that grep has something to do with regular expressions.
+
+  * The grep program accepts options and arguments the follwing way, where *regex* is a regular expression.
+```
+grep [options] regex [file...]
+```
 ## References
   * https://www.gnu.org/software/diffutils/manual/html_node/diff-Options.html
 
