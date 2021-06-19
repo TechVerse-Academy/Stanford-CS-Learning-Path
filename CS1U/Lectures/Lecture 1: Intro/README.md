@@ -156,7 +156,12 @@ Tab completion is an extremely helpful feature in nearly any command-line enviro
 junryo@xyz ~% pip
 pip     pip3    pip3.8  pip3.9
 ```
-* clear : erase all commands
+3. Erase all commands with clear  
+
+Clear is a computer operating system command which is used to bring the command line on top of the computer terminal.
+```
+junryo@xyz ~ %clear
+```
 * up arrow lets you access previous commands you’ve used
 * ctrl-c interrupt command
 * ctrl-d disconnect (used for programs like python
