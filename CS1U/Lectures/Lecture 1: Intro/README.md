@@ -1,5 +1,5 @@
 ### Some main commands
-1. ls - list directory  
+1. list directory with ls  
 The ls command is probably the most used command, and for good reason. With it, we can see directory contents and determine a variety of important file and directory attributes.   
   * get a list of files and subdirectories contained in the current working directory  
 ```
