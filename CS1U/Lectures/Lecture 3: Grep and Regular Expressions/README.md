@@ -2,6 +2,8 @@
 
 **1. Most basic use of diff is to get the difference between two files**  
 
+> The *diff* command is often used by software developers to examine changes between different versions of program source code and thus has the ability to recursively examine directories of source code, often referred to as source trees.
+
 The diff program is a much more complex tool, supporting many output formats and the ability to process large collections of text files at once.  
 For example, consider two files, content.txt, and context2.txt in the [previous lecture](../Lecture%202:%20Pipelines%20-%20Input%26Output%20Redirection).  
   * If context.txt contains the following two lines of text:
@@ -51,4 +53,3 @@ junryo@xyz ~%diff -c content.txt content2.txt
 ```
 
   
-> The *diff* command is often used by software developers to examine changes between different versions of program source code and thus has the ability to recursively examine directories of source code, often referred to as source trees.
