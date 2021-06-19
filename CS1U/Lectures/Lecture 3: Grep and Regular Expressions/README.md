@@ -48,7 +48,6 @@ junryo@xyz ~%diff -c content.txt content2.txt
 - I am a computer scientist.
 \ No newline at end of file
 --- 1 ----
-
 ```
 
   
