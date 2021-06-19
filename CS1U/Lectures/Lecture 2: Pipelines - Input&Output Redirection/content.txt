@@ -1,1 +1,2 @@
 Hello. I'm Trung Anh. I am from Vietnam.
+I am a computer scientist.
