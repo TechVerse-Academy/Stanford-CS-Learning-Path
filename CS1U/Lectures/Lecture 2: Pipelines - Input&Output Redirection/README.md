@@ -38,8 +38,7 @@ Hello. I'm Trung Anh. I am from Vietnam.
 Hello. I'm Trung Anh. I am from Vietnam.
 ```
 **3 ./conversation.py < name**    
-
-Using the < redirection operator, we change the source of standard input from the keyboard to the file lazy_dog.txt. 
+ 
 **4. Read from stdin and output to stdout and files with tee**  
 
 The tee program reads standard input and copies it to both standard output (allowing the data to continue down the pipeline) and to one or more files.   
