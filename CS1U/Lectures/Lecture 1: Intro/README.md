@@ -9,10 +9,14 @@ junryo@MacBook-Pro ~ %ls
 ```
 junryo@MacBook-Pro ~ %ls /home
 ```
-   * We can even specify multiple directories    
+   * We can even specify multiple directories  
 In the following example, we list both the user’s home directory (symbolized by the ~ character) and the /usr directory.
 ```
-junryo@MacBook-Pro ~ %ls ~ /usr
+   * We can also change the format of the output to reveal more detail
+```
+junryo@MacBook-Pro ~ %ls  
+```
+junryo@MacBook-Pro ~ %ls -l
 ```
 * cd - change directory (will only look in my current directory)
 * cd ~ : takes you to home folder
