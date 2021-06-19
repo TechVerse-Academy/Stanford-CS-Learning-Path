@@ -106,16 +106,33 @@ total 24
 To display the current working directory, we use the pwd (print working directory) command.
 ```
 junryo@xyz ~ %pwd  
+
 /Users/junryo/miniconda
 ```
 3. Change directory (will only look in my current directory) with cd  
 To change our working directory (where we are standing in the tree-shaped maze), we use the cd command.  
-  * Absolute Pathnames
+  * Absolute pathnames
 ```
 junryo@xyz ~ %cd /usr/bin 
 junryo@xyz ~ %pwd  
 
 /usr/bin
+```
+  * Relative pathnames
+The . notation refers to the working directory, and the .. notation refers to the working directory’s parent directory. Here is how it works. Let’s change the working directory to /usr/bin again.
+```
+junryo@xyz ~ %cd /usr/bin 
+```
+We wanted to change the working directory to the parent of /usr/bin, which is /usr. 
+```
+junryo@xyz ~ %cd ..
+```
+We can change the working directory from /usr to /usr/bin using an relative pathname.
+```
+junryo@xyz ~ %cd ./bin
+junryo@xyz ~ %cd pwd
+
+usr/bin
 ```
 * cd ~ : takes you to home folder
 * cd / : go to root directory
