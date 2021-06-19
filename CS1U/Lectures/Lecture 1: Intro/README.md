@@ -89,7 +89,8 @@ total 24
  0 drwxr-xr-x    4 junryo  staff    128 Jun 15 21:11 envs
 ```
   * The ls command has a large number of possible options, the most common of which are listed in the following table.  
-|#   	|option   	|description   	|
+
+|   	|option   	|description   	|
 |---	|---	    |---	        |
 |1   	|all   	    |List all files, even those with names that begin with a period, which are normally not listed (that is, hidden). |
 |   	|   	|   	|
@@ -100,6 +101,7 @@ total 24
 |   	|   	|   	|
 |   	|   	|   	|
 |   	|   	|   	|
+
 * Change directory (will only look in my current directory) with cd
 * cd ~ : takes you to home folder
 * cd / : go to root directory
