@@ -3,7 +3,7 @@
 The ls command is probably the most used command, and for good reason. With it, we can see directory contents and determine a variety of important file and directory attributes.   
   * Get a list of files and subdirectories contained in the current working directory  
 ```
-junryo@MacBook-Pro ~ %ls  
+junryo@xyz ~ %ls  
 
 Applications				Movies
 Calibre Library				Music
@@ -15,7 +15,7 @@ Library					miniconda
 ```
   * Besides the current working directory, we can specify the directory to list
 ```
-junryo@MacBook-Pro ~ %ls /miniconda
+junryo@xyz ~ %ls /miniconda
 
 LICENSE.txt	condabin	include		python.app	ssl
 bin		envs		lib		share
@@ -24,7 +24,7 @@ conda-meta	etc		pkgs		shell
    * We can even specify multiple directories  
 In the following example, we list both the user’s home directory (symbolized by the ~ character) and the /usr directory.
 ```
-junryo@MacBook-Pro ~ %ls ~ /usr
+junryo@xyz ~ %ls ~ /usr
 
 
 /usr:
@@ -33,7 +33,7 @@ X11R6		lib		local		share
 ```
    * By adding -l to the command, we changed the output to the long format.
 ```
-junryo@MacBook-Pro ~ %ls -l
+junryo@xyz ~ %ls -l
 
 total 24
 -rw-r--r--    1 junryo  staff  11799 Dec 10  2020 LICENSE.txt
@@ -52,7 +52,7 @@ drwxr-xr-x    9 junryo  staff    288 Jun 15 21:07 ssl
 ```   
   * Sort the result by the file’s modification time.
 ```
-junryo@MacBook-Pro ~ %ls -lt
+junryo@xyz ~ %ls -lt
 
 total 24
 drwxr-xr-x    4 junryo  staff    128 Jun 15 21:11 envs
@@ -71,7 +71,7 @@ drwxr-xr-x    9 junryo  staff    288 Jun 15 21:07 ssl
 ```  
    * Add the long option --reverse to reverse the order of the sort.
 ```
-junryo@MacBook-Pro ~ %ls -lt -reverse
+junryo@xyz ~ %ls -lt --reverse
 
 total 24
 24 -rw-r--r--    1 junryo  staff  11799 Dec 10  2020 LICENSE.txt
@@ -90,17 +90,17 @@ total 24
 ```
   * The ls command has a large number of possible options, the most common of which are listed in the following table.  
 
-|   	|option   	        |description   	|
-|---	|---	            |---	        |
-|1   	|-all   	        |List all files, even those with names that begin with a period, which are normally not listed (that is, hidden).|
-|2   	|-all -almost   	|   	|
-|3   	|   	|   	|
-|4   	|   	|   	|
-|5   	|   	|   	|
-|6   	|   	|   	|
-|7   	|   	|   	|
-|8   	|   	|   	|
-|9   	|   	|   	|
+|   	|option   	        |long option   	|description              |
+|---	|---	            |---	        |---              |
+|1   	|--all   	        |List all files, even those with names that begin with a period, which are normally not listed (that is, hidden).|                |
+|2   	|--all-almost   	|   	|
+|3   	|--directory   	|   	| |
+|4   	|--classify   	|   	| |
+|5   	|   	|   	| |
+|6   	|   	|   	| |
+|7   	|   	|   	| |
+|8   	|   	|   	| |
+|9   	|   	|   	| |
 
 * Change directory (will only look in my current directory) with cd
 * cd ~ : takes you to home folder
