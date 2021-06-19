@@ -90,8 +90,8 @@ total 24
 ```
   * The ls command has a large number of possible options, the most common of which are listed in the following table.  
 
-|#   	|option |long option   	|description              |
-|---	|---	|---	        |---              |
+|#   	|option |long option   	|description                                                                                   |
+|---	|---	|---	        |---                                                                                           |
 |1   	|-a  	|--all          |List all files, even those with names that begin with a period, which are normally not listed.|
 |2   	|-A   	|--all-almost   |Like the -a option except it does not list . (current directory) and .. (parent directory).   |
 |3   	|-d   	|--directory   	|Ordinarily, if a directory is specified, ls will list the contents of the directory, not the directory itself. Use this option in conjunction with the -l option to see details about the directory rather than its contents.         |
