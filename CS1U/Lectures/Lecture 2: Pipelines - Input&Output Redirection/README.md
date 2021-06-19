@@ -4,9 +4,9 @@ The capability of commands to read data from standard input and send to standard
 
 **1. Print lines matching a pattern with grep**  
 
-*grep* is a powerful program used to find text patterns within files.  It’s used like this as follows.
+The *grep* command is a powerful program used to find text patterns within files.  It’s used like this as follows.
 ```
-**grep** *pattern* file_name
+grep pattern file_name
 ```
 **1. Piping lets you use the output of one command as the input of another**  
 Using the pipe operator |, the standard output of one command can be piped into the standard input of another.
