@@ -1,5 +1,5 @@
 <div align="center">
-	<img width="300" height="350" src="media/SU_SealColor_web3.png" alt="Stanford"></img>
+	<img width="370" height="370" src="media/SU_SealColor_web3.png" alt="Stanford"></img>
 </div>
 
 # Stanford Computer Science Curriculum in 2021  
