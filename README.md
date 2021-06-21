@@ -1,3 +1,7 @@
+<div align="center">
+	<img width="300" height="350" src="media/SU_SealColor_web3.png" alt="Stanford"></img>
+</div>
+
 # Stanford Computer Science Curriculum in 2021  
 Courses offered by the Department of Computer Science are listed under the subject code CS.
 > I arm rewriting lectures based original syllabus by updating the latest knowledge to accelerate you.
